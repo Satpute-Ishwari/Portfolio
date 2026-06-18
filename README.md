@@ -197,12 +197,13 @@ This project is open source and available for personal use.
 
 ## 👨‍💻 Author
 
-**Ishwari** - Full Stack Developer | AI & Cybersecurity Enthusiast
+**Ishwari Satpute**  
+Full Stack Developer | AI & Cybersecurity Enthusiast
 
-- GitHub: [@ishwari](https://github.com/ishwari)
-- LinkedIn: [Ishwari](https://linkedin.com/in/ishwari)
-- Email: hello@ishwari.dev
-
+- GitHub: https://github.com/Satpute-Ishwari
+- LinkedIn: https://www.linkedin.com/in/ishwari-satpute/
+- Portfolio: https://ishwari-satpute.vercel.app
+- Email: ishwarisatpute451@gmail.com
 ## 🤝 Support
 
 For issues or suggestions, please reach out or submit an issue.
